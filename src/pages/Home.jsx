@@ -1,4 +1,4 @@
-import { AboutSection } from "../components/AboutMe";
+import { AboutSection } from "../components/AboutSection";
 import { HeroSection } from "../components/HeroSection";
 import { Navbar } from "../components/Navbar";
 import { StarBackground } from "../components/StarBackground";
