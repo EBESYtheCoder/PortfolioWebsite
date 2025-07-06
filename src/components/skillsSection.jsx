@@ -5,9 +5,9 @@ const skills = [
   //languages
   { name: "JavaScript", level: 90, category: "languages" },
   { name: "Python", level: 90, category: "languages" },
-  { name: "C/C++", level: 70, category: "languages" },
-  { name: "Java", level: 95, category: "languages" },
-  { name: "Ocaml", level: 95, category: "languages" },
+  { name: "C/C++", level: 60, category: "languages" },
+  { name: "Java", level: 50, category: "languages" },
+  { name: "Ocaml", level: 60, category: "languages" },
 
   //FrontEnd
   { name: "HTML/CSS", level: 95, category: "frontend" },
