@@ -8,7 +8,7 @@ const projects = [
       "A React app that tracks real-time crypto prices using the CoinGecko API. Clean UI, fast updates, and mobile-friendly.",
     image: "/projects/project1.png",
     tags: ["React", "TailwindCSS", "CoinGecko"],
-    demoUrl: "#",
+    demoUrl: "https://greatstack.in/cryptoplace/",
     githubUrl: "#",
   },
   {
@@ -18,7 +18,7 @@ const projects = [
       "A full-stack blog platform powered by AI. Users can write, edit, and get AI-assisted content suggestions in real time.",
     image: "/projects/project2.png",
     tags: ["React", "TailwindCSS", "Node"],
-    demoUrl: "#",
+    demoUrl: "https://quickblog-gs.vercel.app/",
     githubUrl: "#",
   },
   {
